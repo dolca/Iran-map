@@ -1,0 +1,31 @@
+.svg-wrapper svg {
+  display: block;
+  max-width: 100%;
+  width: 100%; }
+
+.map-border {
+  fill:#000; }
+
+.map-province {
+  fill: #DDDDDD;
+  transition: 300ms;
+  transition-timing-function: ease-in-out;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+
+}
+  .map-province:hover {
+    fill: #646464; }
+
+.map-sea {
+  fill: #7ec0ee; }
+
+.map-island {
+  fill: #DDDDDD; }
+
+.map-sea-names {
+  fill: #000; 
+}
+.map-province-names {
+  fill: #000; 
+}
